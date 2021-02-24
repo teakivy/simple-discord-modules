@@ -53,7 +53,8 @@ SimpleDiscord.embedMaker({ options });
 | inline | Boolean | true          | No       |
 
 <br>
-If you dont know what these values mean, I would reccomend reading up on embeds [Here](https://discordjs.guide/popular-topics/embeds.html)
+
+If you dont know what these values mean, I would reccomend reading up on embeds [Here](https://discordjs.guide/popular-topics/embeds.html/)
 
 ## Examples
 
